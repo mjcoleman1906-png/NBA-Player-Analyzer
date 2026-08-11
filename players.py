@@ -7246,3 +7246,35 @@ nba_teams = {
 }
 
 
+players = (
+    lakers_players +
+    warriors_players +
+    clippers_players +
+    nuggets_players +
+    pistons_players +
+    celtics_players +
+    bucks_players +
+    heat_players +
+    suns_players +
+    jazz_players +
+    mavericks_players +
+    rockets_players +
+    knicks_players +
+    nets_players +
+    bulls_players +
+    hornets_players +
+    hawks_players +
+    pacers_players +
+    magic_players +
+    wizards_players +
+    timberwolves_players +
+    pelicans_players +
+    trailblazers_players +
+    kings_players +
+    spurs_players +
+    thunder_players +
+    grizzlies_players +
+    raptors_players +
+    cavs_players +
+    sixers_players
+)
