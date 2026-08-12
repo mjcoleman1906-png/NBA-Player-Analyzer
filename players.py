@@ -7278,3 +7278,137 @@ players = (
     cavs_players +
     sixers_players
 )
+
+nba_team_search = {
+
+    # Lakers
+    "lakers": lakers_players,
+    "los angeles lakers": lakers_players,
+    "la lakers": lakers_players,
+
+    # Warriors
+    "warriors": warriors_players,
+    "golden state warriors": warriors_players,
+    "gs warriors": warriors_players,
+
+    # Clippers
+    "clippers": clippers_players,
+    "los angeles clippers": clippers_players,
+    "la clippers": clippers_players,
+
+    # Nuggets
+    "nuggets": nuggets_players,
+    "denver nuggets": nuggets_players,
+
+    # Pistons
+    "pistons": pistons_players,
+    "detroit pistons": pistons_players,
+
+    # Celtics
+    "celtics": celtics_players,
+    "boston celtics": celtics_players,
+
+    # Bucks
+    "bucks": bucks_players,
+    "milwaukee bucks": bucks_players,
+
+    # Heat
+    "heat": heat_players,
+    "miami heat": heat_players,
+
+    # Suns
+    "suns": suns_players,
+    "phoenix suns": suns_players,
+
+    # Jazz
+    "jazz": jazz_players,
+    "utah jazz": jazz_players,
+
+    # Mavericks
+    "mavericks": mavericks_players,
+    "mavs": mavericks_players,
+    "dallas mavericks": mavericks_players,
+
+    # Rockets
+    "rockets": rockets_players,
+    "houston rockets": rockets_players,
+
+    # Knicks
+    "knicks": knicks_players,
+    "new york knicks": knicks_players,
+
+    # Nets
+    "nets": nets_players,
+    "brooklyn nets": nets_players,
+
+    # Bulls
+    "bulls": bulls_players,
+    "chicago bulls": bulls_players,
+
+    # Hornets
+    "hornets": hornets_players,
+    "charlotte hornets": hornets_players,
+
+    # Hawks
+    "hawks": hawks_players,
+    "atlanta hawks": hawks_players,
+
+    # Pacers
+    "pacers": pacers_players,
+    "indiana pacers": pacers_players,
+
+    # Magic
+    "magic": magic_players,
+    "orlando magic": magic_players,
+
+    # Wizards
+    "wizards": wizards_players,
+    "washington wizards": wizards_players,
+
+    # Timberwolves
+    "timberwolves": timberwolves_players,
+    "wolves": timberwolves_players,
+    "minnesota timberwolves": timberwolves_players,
+
+    # Pelicans
+    "pelicans": pelicans_players,
+    "new orleans pelicans": pelicans_players,
+
+    # Trail Blazers
+    "trail blazers": trailblazers_players,
+    "trailblazers": trailblazers_players,
+    "blazers": trailblazers_players,
+    "portland trail blazers": trailblazers_players,
+
+    # Kings
+    "kings": kings_players,
+    "sacramento kings": kings_players,
+
+    # Spurs
+    "spurs": spurs_players,
+    "san antonio spurs": spurs_players,
+
+    # Thunder
+    "thunder": thunder_players,
+    "oklahoma city thunder": thunder_players,
+    "okc thunder": thunder_players,
+
+    # Grizzlies
+    "grizzlies": grizzlies_players,
+    "memphis grizzlies": grizzlies_players,
+
+    # Raptors
+    "raptors": raptors_players,
+    "toronto raptors": raptors_players,
+
+    # Cavaliers
+    "cavaliers": cavs_players,
+    "cavs": cavs_players,
+    "cleveland cavaliers": cavs_players,
+
+    # 76ers
+    "76ers": sixers_players,
+    "sixers": sixers_players,
+    "philadelphia 76ers": sixers_players,
+    "philadelphia sixers": sixers_players,
+}
