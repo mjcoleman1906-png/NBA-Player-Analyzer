@@ -4,17 +4,16 @@ A Python application that analyzes NBA players and teams using basketball statis
 
 Features
 
-- Search for NBA players
-- Calculate player ratings
-- Assign player grades
-- Analyze team statistics
-- Team search (accepts multiple spellings)
-- Team leader finder
-- Team offensive and defensive analysis
-- Passing analysis
-- Rebounding analysis
-- Ball security analysis
-- Best player on each team
+## Features
+
+- Search and analyze NBA players
+- Player rating and grade system
+- Player rankings
+- Team reports
+- Team statistical profiles
+- Player vs. player comparisons
+- Team vs. team comparisons
+- Flexible team-name search
 
 
 Built With
